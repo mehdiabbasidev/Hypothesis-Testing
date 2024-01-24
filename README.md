@@ -10,4 +10,4 @@
    ```bash
    git clone https://github.com/mehdiabbasidev/Hypothesis-Testing.git
 ## مشارکت
-اگر مایل به همکاری یا اصلاحات هستید، لطفاً یک Pull Request ارسال کنید. همیشه به دیدگاه و کمک‌های شما خوشحال می‌شویم.
+اگر مایل به همکاری یا اصلاحات هستید، لطفاً یک Pull Request ارسال کنید. 
